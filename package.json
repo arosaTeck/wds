@@ -1,0 +1,22 @@
+{
+  "name": "is-wds",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arosaTeck/wds.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arosaTeck/wds/issues"
+  },
+  "homepage": "https://github.com/arosaTeck/wds#readme"
+}
